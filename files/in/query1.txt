@@ -1,0 +1,10 @@
+george  betty
+  Henry  mildred
+jane    betty
+tyler    edna
+                mildred jane
+                mildred        jenny
+jenny tyler
+edna martha
+george bill
+too jenny
